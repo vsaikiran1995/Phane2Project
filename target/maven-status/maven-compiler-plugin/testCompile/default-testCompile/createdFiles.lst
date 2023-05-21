@@ -1,0 +1,4 @@
+stepsdefs\TestRunner.class
+stepsdefs\LoginStepDef.class
+stepsdefs\AddToCartStepDef.class
+stepsdefs\Hooks.class
